@@ -174,7 +174,7 @@ p{
 
 /* --------------- Site title ---------------- */
 main .site-title{
-    background: url('../assets/Lovy.jpg');
+    background: url('../assets/photo.jpg');
     background-size: cover;
     height: 70vh;
     display: flex;
